@@ -1,0 +1,12 @@
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.Models\bin\Debug\net7.0\SistemaInventario.Models.deps.json
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.Models\bin\Debug\net7.0\SistemaInventario.Models.dll
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.Models\bin\Debug\net7.0\SistemaInventario.Models.pdb
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.Models\obj\Debug\net7.0\SistemaInventario.Models.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.Models\obj\Debug\net7.0\SistemaInventario.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.Models\obj\Debug\net7.0\SistemaInventario.Models.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.Models\obj\Debug\net7.0\SistemaInventario.Models.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.Models\obj\Debug\net7.0\SistemaInventario.Models.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.Models\obj\Debug\net7.0\SistemaInventario.Models.dll
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.Models\obj\Debug\net7.0\refint\SistemaInventario.Models.dll
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.Models\obj\Debug\net7.0\SistemaInventario.Models.pdb
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.Models\obj\Debug\net7.0\ref\SistemaInventario.Models.dll

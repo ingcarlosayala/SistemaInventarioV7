@@ -1,0 +1,17 @@
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.AccesoDatos.deps.json
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.AccesoDatos.dll
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.AccesoDatos.pdb
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.dll
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\refint\SistemaInventario.AccesoDatos.dll
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.pdb
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\ref\SistemaInventario.AccesoDatos.dll
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.AccesoDatos.runtimeconfig.json
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.Models.dll
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.Models.pdb
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Escritorio\SistemaInventarioV7\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.genruntimeconfig.cache
