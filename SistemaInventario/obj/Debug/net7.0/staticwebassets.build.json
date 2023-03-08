@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EvrY2HtqaI2w5sdtj6ZgBqZleRYLPGRY9wgP2E+vdFA=",
+  "Hash": "onOvjDpaWDM+5K4ga0liXeBWxnY3P3WrzoIMrXiD8BA=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\carlo\\OneDrive\\Escritorio\\SistemaInventarioV7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\almacen.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlo\\OneDrive\\Escritorio\\SistemaInventarioV7\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/almacen.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\almacen.js"
     },
     {
       "Identity": "C:\\Users\\carlo\\OneDrive\\Escritorio\\SistemaInventarioV7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",

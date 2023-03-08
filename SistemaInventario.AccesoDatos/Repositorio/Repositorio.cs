@@ -25,7 +25,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio
             await dbSet.AddAsync(entidad);
         }
 
-        public async Task<T> Get(int id)
+        public async Task<T> Obtener(int id)
         {
             return await dbSet.FindAsync(id);
         }

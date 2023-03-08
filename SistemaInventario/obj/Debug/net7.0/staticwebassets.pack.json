@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\carlo\\OneDrive\\Escritorio\\SistemaInventarioV7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\almacen.js",
+      "PackagePath": "staticwebassets\\js\\almacen.js"
+    },
+    {
       "Id": "C:\\Users\\carlo\\OneDrive\\Escritorio\\SistemaInventarioV7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

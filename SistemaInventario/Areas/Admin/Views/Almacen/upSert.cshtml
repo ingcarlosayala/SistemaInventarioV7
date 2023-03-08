@@ -1,0 +1,60 @@
+﻿@model SistemaInventario.Models.Almacen
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var titulo = "Crear Almacen";
+}
+
+<div class="container-xl">
+    @if (Model.Id == 0)
+    {
+        <h2 class="text-center mt-4 fw-bold text-primary">@titulo</h2>
+    }else{
+        <h2 class="text-center mt-4 fw-bold text-primary">Actualiar Almacen</h2>
+    }
+
+    <form asp-action="upSert" method="post">
+        <div asp-validation-summary="ModelOnly"></div>
+
+        <div class="row">
+            <div class="col-md-6 offset-md-3 bg-white p-3 shadow rounded">
+                <div class="mb-2">
+                    <label asp-for="Nombre" class="form-label text-uppercase fw-bold text-gris"></label>
+                    <input asp-for="Nombre" class="form-control" type="text" placeholder="Nombre de almacen">
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+
+                <div class="mb-2">
+                    <label asp-for="Estado" class="form-label text-uppercase fw-bold text-gris"></label>
+                    <select asp-for="Estado" class="form-select">
+                        <option disabled selected>Seleccione</option>
+                        <option value="false">Inactivo</option>
+                        <option value="true">Activo</option>
+                    </select>
+                    <span asp-validation-for="Estado" class="text-danger"></span>
+                </div>
+
+                <div class="mb-2">
+                    <label asp-for="Descripcion" class="form-label text-uppercase fw-bold text-gris"></label>
+                    <textarea asp-for="Descripcion" class="form-select"></textarea>
+                    <span asp-validation-for="Descripcion" class="text-danger"></span>
+                </div>
+
+                @if (Model.Id == 0)
+                {
+                    <partial name="_BotonCrear"></partial>
+                }
+                else
+                {
+                    <partial name="_BotonActualizar" model="Model.Id"></partial>
+                }
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts{
+
+    <partial name="_ValidationScriptsPartial"></partial>
+}
+

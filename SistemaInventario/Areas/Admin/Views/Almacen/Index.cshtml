@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-xl">
+    <div class="row">
+        <div class="col-lg-6">
+            <h2 class="text-primary fw-bold">Lista de Almacen</h2>
+        </div>
+        <div class="col-lg-5 offset-lg-1 text-lg-end">
+            <a asp-action="upSert" class="btn btn-outline-primary"><i class="bi bi-plus-square"></i> Nuevo Almacen</a>
+        </div>
+    </div>
+
+    <div class="table-responsive-md mt-3">
+        <table id="tblDatos" class="table table-striped w-100">
+            <thead class="table-dark">
+                <tr>
+                    <th>Nombre</th>
+                    <th>Descripcion</th>
+                    <th>Estado</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/js/almacen.js"></script>
+}
+
